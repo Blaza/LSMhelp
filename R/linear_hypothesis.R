@@ -1,6 +1,6 @@
 #' Testiranje linearnih hipoteza
 #'
-#' Funkcija za testiranje hipoteza oblika C*beta = gamma
+#' Funkcija za testiranje hipoteza oblika C*beta = gama
 #'
 #' @param model linearni model za koji se testira
 #' @param C matrica C
