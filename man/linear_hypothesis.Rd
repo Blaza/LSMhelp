@@ -18,5 +18,5 @@ Ispisuje vrednost F statistike, odgovarajucih stepeni slobode, kao i
   p vrednost testa i vraca listu sa pomenutim vrednostima.
 }
 \description{
-Funkcija za testiranje hipoteza oblika C*beta = gamma
+Funkcija za testiranje hipoteza oblika C*beta = gama
 }
